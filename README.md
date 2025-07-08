@@ -1,2 +1,2 @@
-# PwSkills_Data_Science_Module1_PythonBasics
-Module 1 Assignment for Data Science Physics Wallah
+# PwSkills_Data_Science_Module_3_PythonBasics
+Module 3 Assignment for Data Science Physics Wallah
